@@ -7,7 +7,7 @@ Este é um projeto simples que faz análise de sentimentos em frases, classifica
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/benhurs/analise-sentimentos.git
+   git clone https://github.com/ben-hurs/analise-sentimentos.git
 
     ```
 2. Navegue até o diretório do projeto:
