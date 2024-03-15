@@ -14,6 +14,11 @@ Para começar, clone o repositório para o seu computador:
 git clone https://github.com/ben-hurs/Analise-de-sentimento.git
 ```
 
+### Navegue até a pasta do repositório
+```bash
+cd Analise-de-sentimento
+```
+
 ### Criar e ativar um Ambiente virtual
 #### Windows:
 ```bash
