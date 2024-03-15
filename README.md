@@ -1,22 +1,53 @@
-# Análise de Sentimentos
+# Análise de Sentimentos com Redes Neurais
 
-Este é um projeto simples que faz análise de sentimentos em frases, classificando-as em três categorias: Felicidade, Tristeza e Raiva.
+Este é um projeto de análise de sentimentos utilizando redes neurais. O modelo foi treinado para classificar sentimentos em textos como Felicidade, Tristeza e Raiva.
 
-## Como Usar
+## Como Executar o Projeto
 
-1. Clone este repositório:
+Siga os passos abaixo para configurar e executar o projeto no seu ambiente local.
 
-   ```bash
-   git clone https://github.com/ben-hurs/analise-sentimentos.git
+### Clonar o Repositório
 
-    ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd analise-sentimentos
-   ```
+Para começar, clone o repositório para o seu computador:
 
-3. Execute o script analise-sentimentos.py:
-   ```bash
-   python analise-sentimentos.py
-   ```
+```bash
+git clone https://github.com/ben-hurs/Analise-de-sentimento.git
+```
+
+### Criar e ativar um Ambiente virtual
+#### Windows:
+```bash
+# Instalar a ferramenta venv
+python -m pip install virtualenv
+
+# Criar um ambiente virtual
+python -m venv env
+
+# Ativar o ambiente virtual
+.\env\Scripts\activate
+```
+
+#### Linux/Mac:
+```bash
+# Criar um ambiente virtual
+python3 -m venv env
+
+# Ativar o ambiente virtual
+source env/bin/activate
+
+```
+
+### Instalação dos pacotes
+Com o ambiente virtual ativado, instale os pacotes.
+```bash
+pip install -r requeriments.txt
+```
+
+### Executar o arquivo
+```bash
+python analise-sentimentos-redes-neurais.py
+```
+
+
+
 
