@@ -43,7 +43,7 @@ source env/bin/activate
 ```
 
 ### Instalação dos pacotes
-Com o ambiente virtual ativado, instale os pacotes.
+Com o ambiente virtual ativado, instale os pacotes. (Esta etapa demora alguns minutos)
 ```bash
 pip install -r requeriments.txt
 ```
