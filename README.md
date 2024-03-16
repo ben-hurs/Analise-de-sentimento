@@ -2,6 +2,9 @@
 
 Este é um projeto de análise de sentimentos utilizando redes neurais. O modelo foi treinado para classificar sentimentos em textos como Felicidade, Tristeza e Raiva.
 
+![Animation](gif_teste.gif)
+
+
 ## Como Executar o Projeto
 
 Siga os passos abaixo para configurar e executar o projeto no seu ambiente local.
